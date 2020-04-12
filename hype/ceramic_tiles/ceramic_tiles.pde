@@ -37,7 +37,7 @@ void setup() {
             .enableStyle( false )
             .strokeJoin(ROUND)
             .strokeCap(ROUND)
-            .strokeWeight(2.0)
+            .strokeWeight(3.0)
             .stroke(#FFFFFF)
             ;
           d.randomColors( colors.fillOnly() );
